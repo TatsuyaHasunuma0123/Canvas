@@ -9,9 +9,9 @@
 ## AndroidStudio setup
 - Install the latest version from the [official AndroidStudio app].(https://developer.android.com/studio) 
 - **clone** this repositories
-'''
+```
 git clone https://github.com/TatsuyaHasunuma0123/canvas
-'''
+```
 - Open Project
 
 ## Abstruct
