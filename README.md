@@ -14,4 +14,5 @@ git clone https://github.com/TatsuyaHasunuma0123/canvas
 ```
 
 ## Abstruct
-![img1 screenshot](./images/img1.png)  ![img2 screenshot](./images/img2.png)
+![fish screenshot](./images/img1.png)
+![img2 screenshot](./images/img2.png)
