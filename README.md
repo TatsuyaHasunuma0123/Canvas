@@ -1,14 +1,14 @@
-# Canvas
+# :pencil: Canvas
 
-## My other portfolio is here.
+## :smiling_face_with_sunglasses: My other portfolio is here .
 - [Music Player](https://github.com/TatsuyaHasunuma0123/MusicPlayer)
 - [Twitter Calender](https://github.com/TatsuyaHasunuma0123/Calendar)
 - [Discussion Web](https://github.com/TatsuyaHasunuma0123/Discuss)
   
 ## AndroidStudio setup
 - Install the latest version from the [official AndroidStudio app](https://developer.android.com/studio). 
-- **clone** this repositories and open project with AndroidStudio.
-**werning**: There is a possibility that it may not work depending on your environment.
+- **clone** this repositories and open project with AndroidStudio.  
+**:collision: werning**: There is a possibility that it may not work depending on your environment.
 ```
 git clone https://github.com/TatsuyaHasunuma0123/canvas
 ```
