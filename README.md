@@ -1,7 +1,7 @@
 # :pencil: Canvas
 
 ## Demo
-[Here] is a demonstration video(https://drive.google.com/file/d/1kA0BCeKgMvYR4jIPhoMPGwYIFZ7SE8dj/view?usp=sharing).
+[Here](https://drive.google.com/file/d/1kA0BCeKgMvYR4jIPhoMPGwYIFZ7SE8dj/view?usp=sharing) is a demonstration video.
 
 ## My other portfolio is here .
 - 🎵[Music Player](https://github.com/TatsuyaHasunuma0123/MusicPlayer)
