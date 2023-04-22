@@ -16,5 +16,5 @@ git clone https://github.com/TatsuyaHasunuma0123/canvas
 
 ## Abstruct
 
-![first image](./images\img1.png)
+![first image](./images/img1.png)
 
