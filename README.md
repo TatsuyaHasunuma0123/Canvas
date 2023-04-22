@@ -20,7 +20,7 @@ git clone https://github.com/TatsuyaHasunuma0123/canvas
 
 ## Abstruct
 **This application is including these functions:**
-- Drawing
+- Drawing(#midashi1)
 - Saveng
 - Reading
   
