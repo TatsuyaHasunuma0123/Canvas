@@ -36,10 +36,10 @@ git clone https://github.com/TatsuyaHasunuma0123/canvas
 
 
 ## Reading
-![imgf screenshot](./images/img_j.png) 
+![imgf screenshot](./images/img_i.png) 
 1. Tapping the bar in upper right corner will bring up menu.
 2. Tapping **browse** button.
-3. You can enter a name and read your drawing
+3. You can enter a name and read your drawing, and browsed popup.
 
 ## Error
 ![imgj screenshot](./images/img_j.png) ![imgk screenshot](./images/img_k.png)  
