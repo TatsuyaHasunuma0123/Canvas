@@ -26,9 +26,7 @@ git clone https://github.com/TatsuyaHasunuma0123/canvas
 - By tapping on the ***colored square***, you can change the color of the pen.
 - By manipulating the ***bar***　that is displayed along with %, you can change the width of the pen .
 
-## Saving and Reading
-
-# Saveing
+## Saveing
 1. Tapping the bar in the upper right corner will bring up a menu.
 2. Tapping **save** button.
 3. You can enter a name and save your drawing，and browsed popup.
@@ -37,13 +35,13 @@ git clone https://github.com/TatsuyaHasunuma0123/canvas
 ![imge screenshot](./images/img_e.png) ![imgf screenshot](./images/img_f.png)   
 
 
-# Reading
+## Reading
 ![imgf screenshot](./images/img_j.png) 
 1. Tapping the bar in upper right corner will bring up menu.
 2. Tapping **browse** button.
 3. You can enter a name and read your drawing
 
-# Error
+## Error
 ![imgj screenshot](./images/img_j.png) ![imgk screenshot](./images/img_k.png)  
 
 
