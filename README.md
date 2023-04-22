@@ -20,9 +20,9 @@ git clone https://github.com/TatsuyaHasunuma0123/canvas
 
 ## Abstruct
 **This application is including these functions:**
-- Drawing(#midashi1)
-- Saveng
-- Reading
+- [Drawing](#Drawing)
+- [Saveng](#Saving)
+- [Reading](#Reading)
   
 ## Drawing
 ![imgb screenshot](./images/img_b.png)
