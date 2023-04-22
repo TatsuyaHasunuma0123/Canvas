@@ -21,7 +21,7 @@ git clone https://github.com/TatsuyaHasunuma0123/canvas
 ## Abstruct
 **This application is including these functions:**
 - [Drawing](#Drawing)
-- [Saveng](#Saving)
+- [Saving](#Saving)
 - [Reading](#Reading)
   
 ## Drawing
@@ -29,7 +29,7 @@ git clone https://github.com/TatsuyaHasunuma0123/canvas
 - By tapping on the **colored square**, you can change the color of the pen.
 - By manipulating the **bar**　that is displayed along with %, you can change the width of the pen .
   
-## Saveing
+## Saving
 ![imgc screenshot](./images/img_c.png) ![imgd screenshot](./images/img_d.png)     
 ![imge screenshot](./images/img_e.png) ![imgf screenshot](./images/img_f.png)
   
