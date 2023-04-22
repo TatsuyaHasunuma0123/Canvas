@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\tatsuya0123\\AndroidStudioProjects\\canvas_break\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ldrtl-v17\\values-ldrtl-v17.xml",
+            "outputFile": "C:\\Users\\user\\github\\AndroidStudio\\ke-ti2-TatsuyaHasunuma0123\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ldrtl-v17\\values-ldrtl-v17.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\tatsuya0123\\.gradle\\caches\\transforms-2\\files-2.1\\723282c7994550298e26d567cb0e519b\\material-1.3.0\\res\\values-ldrtl-v17\\values-ldrtl-v17.xml",
+                    "source": "C:\\Users\\user\\.gradle\\caches\\transforms-3\\b2aed5ecaadf3fa2c14c9683977bc0ac\\transformed\\material-1.3.0\\res\\values-ldrtl-v17\\values-ldrtl-v17.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",
