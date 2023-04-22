@@ -43,5 +43,5 @@ git clone https://github.com/TatsuyaHasunuma0123/canvas
 2. Tapping **browse** button.
 3. You can enter a name and read your drawing, and browsed popup.
   
-## Error
+## IF Error
 ![imgj screenshot](./images/img_j.png) ![imgk screenshot](./images/img_k.png)  
