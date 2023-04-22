@@ -1,6 +1,6 @@
 # :pencil: Canvas
 
-## :white_heart: My other portfolio is here .
+## My other portfolio is here .
 - [Music Player](https://github.com/TatsuyaHasunuma0123/MusicPlayer)
 - [Twitter Calender](https://github.com/TatsuyaHasunuma0123/Calendar)
 - [Discussion Web](https://github.com/TatsuyaHasunuma0123/Discuss)
