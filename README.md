@@ -31,7 +31,7 @@ git clone https://github.com/TatsuyaHasunuma0123/canvas
 2. Tapping **save** button.
 3. You can enter a name and save your drawing，and browsed popup.
 
-![imgc screenshot](./images/img_c.png) ![imgd screenshot](./images/img_d.png) 
+![imgc screenshot](./images/img_c.png) ![imgd screenshot](./images/img_d.png)   
 ![imge screenshot](./images/img_e.png) ![imgf screenshot](./images/img_f.png)   
 
 
