@@ -1,9 +1,9 @@
 # :pencil: Canvas
 
 ## My other portfolio is here .
-- [Music Player](https://github.com/TatsuyaHasunuma0123/MusicPlayer)
-- [Twitter Calender](https://github.com/TatsuyaHasunuma0123/Calendar)
-- [Discussion Web](https://github.com/TatsuyaHasunuma0123/Discuss)
+- 🎵[Music Player](https://github.com/TatsuyaHasunuma0123/MusicPlayer)
+- 📆[Twitter Calender](https://github.com/TatsuyaHasunuma0123/Calendar)
+- 🗺️[Discussion Web](https://github.com/TatsuyaHasunuma0123/Discuss)
   
 ## AndroidStudio setup
 - Install the latest version from the [official AndroidStudio app](https://developer.android.com/studio). 
@@ -16,15 +16,15 @@ git clone https://github.com/TatsuyaHasunuma0123/canvas
 ## Abstruct
 ![imga screenshot](./images/img_a.png)　![imgb screenshot](./images/img_b.png)
   
-***This application is including these functions:***
+**This application is including these functions:**
 - Drawing
 - Saveng
 - Reading
   
 ## Drawing
 ![imgb screenshot](./images/img_b.png)
-- By tapping on the ***colored square***, you can change the color of the pen.
-- By manipulating the ***bar***　that is displayed along with %, you can change the width of the pen .
+- By tapping on the **colored square**, you can change the color of the pen.
+- By manipulating the **bar**　that is displayed along with %, you can change the width of the pen .
   
 ## Saveing
 ![imgc screenshot](./images/img_c.png) ![imgd screenshot](./images/img_d.png)     
