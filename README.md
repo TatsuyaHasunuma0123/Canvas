@@ -1,6 +1,6 @@
-# :pencil: Canvas
+![imga screenshot](./images/img_a.png)　![imgb screenshot](./images/img_b.png)  
 
-![imga screenshot](./images/img_a.png)　![imgb screenshot](./images/img_b.png)
+# :pencil: Canvas  
 
 ## Demo
 [Here](https://drive.google.com/file/d/1kA0BCeKgMvYR4jIPhoMPGwYIFZ7SE8dj/view?usp=sharing) is a demonstration video.
