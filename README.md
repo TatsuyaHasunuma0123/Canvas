@@ -5,10 +5,11 @@
 ## 🎥 Demo
 [Here](https://drive.google.com/file/d/1kA0BCeKgMvYR4jIPhoMPGwYIFZ7SE8dj/view?usp=sharing) is a demonstration video.
 
-## My other portfolio is here .
+## My other App is here .
 - 🎵[Music Player](https://github.com/TatsuyaHasunuma0123/MusicPlayer)
-- 📆[Twitter Calender](https://github.com/TatsuyaHasunuma0123/Calendar)
+- 📆[Twitter Calender](https://github.com/TatsuyaHasunuma0123/TwitterCalendar)
 - 🕸️[Discussion Web](https://github.com/TatsuyaHasunuma0123/Discuss)
+- 🗾[population_graph](https://github.com/TatsuyaHasunuma0123/population_graph)
   
 ## Usage
 - Install the latest version from the [official AndroidStudio app](https://developer.android.com/studio). 
